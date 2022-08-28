@@ -1,1 +1,1 @@
-# cleaningCryptoTimeSeries
+# this script adjusts crypto time series to fit traditional equity time series - crypto trades 24/7 while traditional markets are open during the week and have holidays, etc. This is important because to run certain time series analysis methods, data sets should "match".
